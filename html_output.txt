@@ -1,0 +1,309 @@
+Project 1:
+<div class="framer-8mkyq8" data-border="true" data-framer-name="Variant 5" style='--border-bottom-width:1px;--border-color:var(--token-cfcd8ffe-c961-4d8b-8bab-c389d1c9933e, rgb(51, 51, 51)) /* {"name":"Border"} */;--border-left-width:1px;--border-right-width:1px;--border-style:dashed;--border-top-width:1px;height:100%;width:100%'>
+ <div class="framer-1ucpvsp" data-border="true" style="--border-bottom-width:0px;--border-color:rgb(34, 34, 34);--border-left-width:0px;--border-right-width:0px;--border-style:solid;--border-top-width:0px;backdrop-filter:blur(0px);background-color:rgba(0, 0, 0, 0);-webkit-backdrop-filter:blur(0px)">
+  <div class="framer-1kvm7p8">
+   <div class="framer-1i5kbww" data-framer-component-type="RichTextContainer" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:rgb(255, 255, 255);--framer-paragraph-spacing:0px;transform:none">
+    <p class="framer-text" style='--font-selector:R0Y7TWFucm9wZS02MDA=;--framer-font-family:"Manrope", sans-serif;--framer-font-size:24px;--framer-font-weight:600;--framer-line-height:1em;--framer-text-alignment:center;--framer-text-color:var(--extracted-r6o4lv);--framer-text-transform:lowercase'>
+     aren jo
+    </p>
+   </div>
+  </div>
+  <div class="framer-1mn76q2" data-framer-component-type="RichTextContainer" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:rgba(255, 255, 255, 0.5);--framer-paragraph-spacing:0px;transform:none">
+   <p class="framer-text" style='--font-selector:R0Y7TWFucm9wZS02MDA=;--framer-font-family:"Manrope", sans-serif;--framer-font-size:14px;--framer-font-weight:600;--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv);--framer-text-transform:lowercase'>
+    promoting life through my content.
+   </p>
+  </div>
+  <div class="framer-1u9uqzl">
+   <div class="framer-1etal6g">
+    <a class="framer-1jrlt0f framer-10sms40" href="./demoday/aren-jo" target="_blank">
+     <div class="framer-1msl83w-container">
+      <div style="display:contents">
+      </div>
+     </div>
+    </a>
+   </div>
+   <div class="framer-16x9urn">
+    <div class="framer-s9gdz4" data-border="true" style='--border-bottom-width:1px;--border-color:var(--token-cfcd8ffe-c961-4d8b-8bab-c389d1c9933e, rgb(51, 51, 51)) /* {"name":"Border"} */;--border-left-width:1px;--border-right-width:1px;--border-style:dashed;--border-top-width:1px;border-bottom-left-radius:0px;border-bottom-right-radius:0px;border-top-left-radius:0px;border-top-right-radius:0px'>
+     <div class="framer-19q5c2n" data-framer-component-type="RichTextContainer" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:var(--variable-reference-OnV0T8ucD-eMnkOdYV6);--framer-paragraph-spacing:0px;--variable-reference-OnV0T8ucD-eMnkOdYV6:rgb(255, 0, 0);transform:none">
+      <p class="framer-text" style='--font-selector:R0Y7TWFucm9wZS02MDA=;--framer-font-family:"Manrope", sans-serif;--framer-font-size:14px;--framer-font-weight:600;--framer-line-height:1em;--framer-text-alignment:center;--framer-text-color:var(--extracted-r6o4lv);--framer-text-transform:lowercase'>
+       spectreseek
+      </p>
+     </div>
+    </div>
+    <div class="framer-n0ti3h" data-border="true" style='--border-bottom-width:1px;--border-color:var(--token-cfcd8ffe-c961-4d8b-8bab-c389d1c9933e, rgb(51, 51, 51)) /* {"name":"Border"} */;--border-left-width:1px;--border-right-width:1px;--border-style:dashed;--border-top-width:1px'>
+     <div class="framer-1p2caxb" data-framer-component-type="RichTextContainer" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:var(--variable-reference-kyxNeFk8N-eMnkOdYV6);--framer-paragraph-spacing:0px;--variable-reference-kyxNeFk8N-eMnkOdYV6:rgb(255, 255, 255);transform:none">
+      <p class="framer-text" style='--font-selector:R0Y7TWFucm9wZS02MDA=;--framer-font-family:"Manrope", sans-serif;--framer-font-size:14px;--framer-font-weight:600;--framer-line-height:1em;--framer-text-alignment:center;--framer-text-color:var(--extracted-r6o4lv);--framer-text-transform:lowercase'>
+       content
+      </p>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="framer-zf60s6" data-border="true" style='--border-bottom-width:1px;--border-color:var(--token-cfcd8ffe-c961-4d8b-8bab-c389d1c9933e, rgb(51, 51, 51)) /* {"name":"Border"} */;--border-left-width:1px;--border-right-width:1px;--border-style:dashed;--border-top-width:1px;filter:none;-webkit-filter:none'>
+  <div data-framer-background-image-wrapper="true" style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0;background-size:16px 16px;background-image:repeating-linear-gradient(45deg, rgba(180, 180, 180, 0.8) 0, rgba(180, 180, 180, 0.8) 1px, rgba(255, 255, 255, 0.2) 0, rgba(255, 255, 255, 0.2) 50%);border:1px solid #c4c4c4">
+  </div>
+  <div class="framer-1e22an3-container">
+   <article style="position:relative;width:100%;height:100%;border-radius:0px;transform:unset;cursor:pointer;overflow:hidden">
+    <div style="position:absolute;top:0;left:0;height:100%;width:100%;background:center / cover url(https://i.ytimg.com/vi_webp/eJufbci_tgQ/hqdefault.webp) no-repeat">
+    </div>
+    <button aria-label="Play" style="position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);width:68px;height:48px;padding:0;border:none;background:transparent;cursor:pointer">
+     <svg height="100%" version="1.1" viewbox="0 0 68 48" width="100%">
+      <path d="M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z" fill="#212121" fill-opacity="0.8" style="transition:fill .1s cubic-bezier(0.4, 0, 1, 1), fill-opacity .1s cubic-bezier(0.4, 0, 1, 1)">
+      </path>
+      <path d="M 45,24 27,14 27,34" fill="#fff">
+      </path>
+     </svg>
+    </button>
+   </article>
+  </div>
+ </div>
+</div>
+
+Project 2:
+<div class="framer-8mkyq8" data-border="true" data-framer-name="Variant 5" style='--border-bottom-width:1px;--border-color:var(--token-cfcd8ffe-c961-4d8b-8bab-c389d1c9933e, rgb(51, 51, 51)) /* {"name":"Border"} */;--border-left-width:1px;--border-right-width:1px;--border-style:dashed;--border-top-width:1px;height:100%;width:100%'>
+ <div class="framer-1ucpvsp" data-border="true" style="--border-bottom-width:0px;--border-color:rgb(34, 34, 34);--border-left-width:0px;--border-right-width:0px;--border-style:solid;--border-top-width:0px;backdrop-filter:blur(0px);background-color:rgba(0, 0, 0, 0);-webkit-backdrop-filter:blur(0px)">
+  <div class="framer-1kvm7p8">
+   <div class="framer-1i5kbww" data-framer-component-type="RichTextContainer" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:rgb(255, 255, 255);--framer-paragraph-spacing:0px;transform:none">
+    <p class="framer-text" style='--font-selector:R0Y7TWFucm9wZS02MDA=;--framer-font-family:"Manrope", sans-serif;--framer-font-size:24px;--framer-font-weight:600;--framer-line-height:1em;--framer-text-alignment:center;--framer-text-color:var(--extracted-r6o4lv);--framer-text-transform:lowercase'>
+     mayv music
+    </p>
+   </div>
+  </div>
+  <div class="framer-1mn76q2" data-framer-component-type="RichTextContainer" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:rgba(255, 255, 255, 0.5);--framer-paragraph-spacing:0px;transform:none">
+   <p class="framer-text" style='--font-selector:R0Y7TWFucm9wZS02MDA=;--framer-font-family:"Manrope", sans-serif;--framer-font-size:14px;--framer-font-weight:600;--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv);--framer-text-transform:lowercase'>
+    an electronic music ep
+   </p>
+  </div>
+  <div class="framer-1u9uqzl">
+   <div class="framer-1etal6g">
+    <a class="framer-1jrlt0f framer-10sms40" href="./demoday/mayv" target="_blank">
+     <div class="framer-1msl83w-container">
+      <div style="display:contents">
+      </div>
+     </div>
+    </a>
+   </div>
+   <div class="framer-16x9urn">
+    <div class="framer-s9gdz4" data-border="true" style='--border-bottom-width:1px;--border-color:var(--token-cfcd8ffe-c961-4d8b-8bab-c389d1c9933e, rgb(51, 51, 51)) /* {"name":"Border"} */;--border-left-width:1px;--border-right-width:1px;--border-style:dashed;--border-top-width:1px;border-bottom-left-radius:0px;border-bottom-right-radius:0px;border-top-left-radius:0px;border-top-right-radius:0px'>
+     <div class="framer-19q5c2n" data-framer-component-type="RichTextContainer" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:var(--variable-reference-OnV0T8ucD-eMnkOdYV6);--framer-paragraph-spacing:0px;--variable-reference-OnV0T8ucD-eMnkOdYV6:rgb(255, 199, 0);transform:none">
+      <p class="framer-text" style='--font-selector:R0Y7TWFucm9wZS02MDA=;--framer-font-family:"Manrope", sans-serif;--framer-font-size:14px;--framer-font-weight:600;--framer-line-height:1em;--framer-text-alignment:center;--framer-text-color:var(--extracted-r6o4lv);--framer-text-transform:lowercase'>
+       gaudmire
+      </p>
+     </div>
+    </div>
+    <div class="framer-n0ti3h" data-border="true" style='--border-bottom-width:1px;--border-color:var(--token-cfcd8ffe-c961-4d8b-8bab-c389d1c9933e, rgb(51, 51, 51)) /* {"name":"Border"} */;--border-left-width:1px;--border-right-width:1px;--border-style:dashed;--border-top-width:1px'>
+     <div class="framer-1p2caxb" data-framer-component-type="RichTextContainer" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:var(--variable-reference-kyxNeFk8N-eMnkOdYV6);--framer-paragraph-spacing:0px;--variable-reference-kyxNeFk8N-eMnkOdYV6:rgb(255, 255, 255);transform:none">
+      <p class="framer-text" style='--font-selector:R0Y7TWFucm9wZS02MDA=;--framer-font-family:"Manrope", sans-serif;--framer-font-size:14px;--framer-font-weight:600;--framer-line-height:1em;--framer-text-alignment:center;--framer-text-color:var(--extracted-r6o4lv);--framer-text-transform:lowercase'>
+       content
+      </p>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="framer-zf60s6" data-border="true" style='--border-bottom-width:1px;--border-color:var(--token-cfcd8ffe-c961-4d8b-8bab-c389d1c9933e, rgb(51, 51, 51)) /* {"name":"Border"} */;--border-left-width:1px;--border-right-width:1px;--border-style:dashed;--border-top-width:1px;filter:none;-webkit-filter:none'>
+  <div data-framer-background-image-wrapper="true" style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0;background-size:16px 16px;background-image:repeating-linear-gradient(45deg, rgba(180, 180, 180, 0.8) 0, rgba(180, 180, 180, 0.8) 1px, rgba(255, 255, 255, 0.2) 0, rgba(255, 255, 255, 0.2) 50%);border:1px solid #c4c4c4">
+  </div>
+  <div class="framer-1e22an3-container">
+   <article style="position:relative;width:100%;height:100%;border-radius:0px;transform:unset;cursor:pointer;overflow:hidden">
+    <div style="position:absolute;top:0;left:0;height:100%;width:100%;background:center / cover url(https://i.ytimg.com/vi_webp/k0esj-Q0_es/hqdefault.webp) no-repeat">
+    </div>
+    <button aria-label="Play" style="position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);width:68px;height:48px;padding:0;border:none;background:transparent;cursor:pointer">
+     <svg height="100%" version="1.1" viewbox="0 0 68 48" width="100%">
+      <path d="M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z" fill="#212121" fill-opacity="0.8" style="transition:fill .1s cubic-bezier(0.4, 0, 1, 1), fill-opacity .1s cubic-bezier(0.4, 0, 1, 1)">
+      </path>
+      <path d="M 45,24 27,14 27,34" fill="#fff">
+      </path>
+     </svg>
+    </button>
+   </article>
+  </div>
+ </div>
+</div>
+
+Project 3:
+<div class="framer-8mkyq8" data-border="true" data-framer-name="Variant 5" style='--border-bottom-width:1px;--border-color:var(--token-cfcd8ffe-c961-4d8b-8bab-c389d1c9933e, rgb(51, 51, 51)) /* {"name":"Border"} */;--border-left-width:1px;--border-right-width:1px;--border-style:dashed;--border-top-width:1px;height:100%;width:100%'>
+ <div class="framer-1ucpvsp" data-border="true" style="--border-bottom-width:0px;--border-color:rgb(34, 34, 34);--border-left-width:0px;--border-right-width:0px;--border-style:solid;--border-top-width:0px;backdrop-filter:blur(0px);background-color:rgba(0, 0, 0, 0);-webkit-backdrop-filter:blur(0px)">
+  <div class="framer-1kvm7p8">
+   <div class="framer-1i5kbww" data-framer-component-type="RichTextContainer" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:rgb(255, 255, 255);--framer-paragraph-spacing:0px;transform:none">
+    <p class="framer-text" style='--font-selector:R0Y7TWFucm9wZS02MDA=;--framer-font-family:"Manrope", sans-serif;--framer-font-size:24px;--framer-font-weight:600;--framer-line-height:1em;--framer-text-alignment:center;--framer-text-color:var(--extracted-r6o4lv);--framer-text-transform:lowercase'>
+     general cybernetics
+    </p>
+   </div>
+  </div>
+  <div class="framer-1mn76q2" data-framer-component-type="RichTextContainer" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:rgba(255, 255, 255, 0.5);--framer-paragraph-spacing:0px;transform:none">
+   <p class="framer-text" style='--font-selector:R0Y7TWFucm9wZS02MDA=;--framer-font-family:"Manrope", sans-serif;--framer-font-size:14px;--framer-font-weight:600;--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv);--framer-text-transform:lowercase'>
+    neural os: a computer made of biological neurons
+   </p>
+  </div>
+  <div class="framer-1u9uqzl">
+   <div class="framer-1etal6g">
+    <a class="framer-1jrlt0f framer-10sms40" href="./demoday/general-cybernetics" target="_blank">
+     <div class="framer-1msl83w-container">
+      <div style="display:contents">
+      </div>
+     </div>
+    </a>
+   </div>
+   <div class="framer-16x9urn">
+    <div class="framer-s9gdz4" data-border="true" style='--border-bottom-width:1px;--border-color:var(--token-cfcd8ffe-c961-4d8b-8bab-c389d1c9933e, rgb(51, 51, 51)) /* {"name":"Border"} */;--border-left-width:1px;--border-right-width:1px;--border-style:dashed;--border-top-width:1px;border-bottom-left-radius:0px;border-bottom-right-radius:0px;border-top-left-radius:0px;border-top-right-radius:0px'>
+     <div class="framer-19q5c2n" data-framer-component-type="RichTextContainer" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:var(--variable-reference-OnV0T8ucD-eMnkOdYV6);--framer-paragraph-spacing:0px;--variable-reference-OnV0T8ucD-eMnkOdYV6:rgb(255, 0, 0);transform:none">
+      <p class="framer-text" style='--font-selector:R0Y7TWFucm9wZS02MDA=;--framer-font-family:"Manrope", sans-serif;--framer-font-size:14px;--framer-font-weight:600;--framer-line-height:1em;--framer-text-alignment:center;--framer-text-color:var(--extracted-r6o4lv);--framer-text-transform:lowercase'>
+       spectreseek
+      </p>
+     </div>
+    </div>
+    <div class="framer-n0ti3h" data-border="true" style='--border-bottom-width:1px;--border-color:var(--token-cfcd8ffe-c961-4d8b-8bab-c389d1c9933e, rgb(51, 51, 51)) /* {"name":"Border"} */;--border-left-width:1px;--border-right-width:1px;--border-style:dashed;--border-top-width:1px'>
+     <div class="framer-1p2caxb" data-framer-component-type="RichTextContainer" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:var(--variable-reference-kyxNeFk8N-eMnkOdYV6);--framer-paragraph-spacing:0px;--variable-reference-kyxNeFk8N-eMnkOdYV6:rgb(255, 255, 255);transform:none">
+      <p class="framer-text" style='--font-selector:R0Y7TWFucm9wZS02MDA=;--framer-font-family:"Manrope", sans-serif;--framer-font-size:14px;--framer-font-weight:600;--framer-line-height:1em;--framer-text-alignment:center;--framer-text-color:var(--extracted-r6o4lv);--framer-text-transform:lowercase'>
+       other
+      </p>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="framer-zf60s6" data-border="true" style='--border-bottom-width:1px;--border-color:var(--token-cfcd8ffe-c961-4d8b-8bab-c389d1c9933e, rgb(51, 51, 51)) /* {"name":"Border"} */;--border-left-width:1px;--border-right-width:1px;--border-style:dashed;--border-top-width:1px;filter:none;-webkit-filter:none'>
+  <div data-framer-background-image-wrapper="true" style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0;background-size:16px 16px;background-image:repeating-linear-gradient(45deg, rgba(180, 180, 180, 0.8) 0, rgba(180, 180, 180, 0.8) 1px, rgba(255, 255, 255, 0.2) 0, rgba(255, 255, 255, 0.2) 50%);border:1px solid #c4c4c4">
+  </div>
+  <div class="framer-1e22an3-container">
+   <article style="position:relative;width:100%;height:100%;border-radius:0px;transform:unset;cursor:pointer;overflow:hidden">
+    <div style="position:absolute;top:0;left:0;height:100%;width:100%;background:center / cover url(https://i.ytimg.com/vi_webp/PBK_YXasaUE/hqdefault.webp) no-repeat">
+    </div>
+    <button aria-label="Play" style="position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);width:68px;height:48px;padding:0;border:none;background:transparent;cursor:pointer">
+     <svg height="100%" version="1.1" viewbox="0 0 68 48" width="100%">
+      <path d="M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z" fill="#212121" fill-opacity="0.8" style="transition:fill .1s cubic-bezier(0.4, 0, 1, 1), fill-opacity .1s cubic-bezier(0.4, 0, 1, 1)">
+      </path>
+      <path d="M 45,24 27,14 27,34" fill="#fff">
+      </path>
+     </svg>
+    </button>
+   </article>
+  </div>
+ </div>
+</div>
+
+Project 4:
+<div class="framer-8mkyq8" data-border="true" data-framer-name="Variant 5" style='--border-bottom-width:1px;--border-color:var(--token-cfcd8ffe-c961-4d8b-8bab-c389d1c9933e, rgb(51, 51, 51)) /* {"name":"Border"} */;--border-left-width:1px;--border-right-width:1px;--border-style:dashed;--border-top-width:1px;height:100%;width:100%'>
+ <div class="framer-1ucpvsp" data-border="true" style="--border-bottom-width:0px;--border-color:rgb(34, 34, 34);--border-left-width:0px;--border-right-width:0px;--border-style:solid;--border-top-width:0px;backdrop-filter:blur(0px);background-color:rgba(0, 0, 0, 0);-webkit-backdrop-filter:blur(0px)">
+  <div class="framer-1kvm7p8">
+   <div class="framer-1i5kbww" data-framer-component-type="RichTextContainer" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:rgb(255, 255, 255);--framer-paragraph-spacing:0px;transform:none">
+    <p class="framer-text" style='--font-selector:R0Y7TWFucm9wZS02MDA=;--framer-font-family:"Manrope", sans-serif;--framer-font-size:24px;--framer-font-weight:600;--framer-line-height:1em;--framer-text-alignment:center;--framer-text-color:var(--extracted-r6o4lv);--framer-text-transform:lowercase'>
+     savitri
+    </p>
+   </div>
+  </div>
+  <div class="framer-1mn76q2" data-framer-component-type="RichTextContainer" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:rgba(255, 255, 255, 0.5);--framer-paragraph-spacing:0px;transform:none">
+   <p class="framer-text" style='--font-selector:R0Y7TWFucm9wZS02MDA=;--framer-font-family:"Manrope", sans-serif;--framer-font-size:14px;--framer-font-weight:600;--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv);--framer-text-transform:lowercase'>
+    we create a sustainable wedding services
+   </p>
+  </div>
+  <div class="framer-1u9uqzl">
+   <div class="framer-1etal6g">
+    <a class="framer-1jrlt0f framer-10sms40" href="./demoday/savitri" target="_blank">
+     <div class="framer-1msl83w-container">
+      <div style="display:contents">
+      </div>
+     </div>
+    </a>
+   </div>
+   <div class="framer-16x9urn">
+    <div class="framer-s9gdz4" data-border="true" style='--border-bottom-width:1px;--border-color:var(--token-cfcd8ffe-c961-4d8b-8bab-c389d1c9933e, rgb(51, 51, 51)) /* {"name":"Border"} */;--border-left-width:1px;--border-right-width:1px;--border-style:dashed;--border-top-width:1px;border-bottom-left-radius:0px;border-bottom-right-radius:0px;border-top-left-radius:0px;border-top-right-radius:0px'>
+     <div class="framer-19q5c2n" data-framer-component-type="RichTextContainer" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:var(--variable-reference-OnV0T8ucD-eMnkOdYV6);--framer-paragraph-spacing:0px;--variable-reference-OnV0T8ucD-eMnkOdYV6:rgb(255, 199, 0);transform:none">
+      <p class="framer-text" style='--font-selector:R0Y7TWFucm9wZS02MDA=;--framer-font-family:"Manrope", sans-serif;--framer-font-size:14px;--framer-font-weight:600;--framer-line-height:1em;--framer-text-alignment:center;--framer-text-color:var(--extracted-r6o4lv);--framer-text-transform:lowercase'>
+       gaudmire
+      </p>
+     </div>
+    </div>
+    <div class="framer-n0ti3h" data-border="true" style='--border-bottom-width:1px;--border-color:var(--token-cfcd8ffe-c961-4d8b-8bab-c389d1c9933e, rgb(51, 51, 51)) /* {"name":"Border"} */;--border-left-width:1px;--border-right-width:1px;--border-style:dashed;--border-top-width:1px'>
+     <div class="framer-1p2caxb" data-framer-component-type="RichTextContainer" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:var(--variable-reference-kyxNeFk8N-eMnkOdYV6);--framer-paragraph-spacing:0px;--variable-reference-kyxNeFk8N-eMnkOdYV6:rgb(255, 255, 255);transform:none">
+      <p class="framer-text" style='--font-selector:R0Y7TWFucm9wZS02MDA=;--framer-font-family:"Manrope", sans-serif;--framer-font-size:14px;--framer-font-weight:600;--framer-line-height:1em;--framer-text-alignment:center;--framer-text-color:var(--extracted-r6o4lv);--framer-text-transform:lowercase'>
+       other
+      </p>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="framer-zf60s6" data-border="true" style='--border-bottom-width:1px;--border-color:var(--token-cfcd8ffe-c961-4d8b-8bab-c389d1c9933e, rgb(51, 51, 51)) /* {"name":"Border"} */;--border-left-width:1px;--border-right-width:1px;--border-style:dashed;--border-top-width:1px;filter:none;-webkit-filter:none'>
+  <div data-framer-background-image-wrapper="true" style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0;background-size:16px 16px;background-image:repeating-linear-gradient(45deg, rgba(180, 180, 180, 0.8) 0, rgba(180, 180, 180, 0.8) 1px, rgba(255, 255, 255, 0.2) 0, rgba(255, 255, 255, 0.2) 50%);border:1px solid #c4c4c4">
+  </div>
+  <div class="framer-1e22an3-container">
+   <article style="position:relative;width:100%;height:100%;border-radius:0px;transform:unset;cursor:pointer;overflow:hidden">
+    <div style="position:absolute;top:0;left:0;height:100%;width:100%;background:center / cover url(https://i.ytimg.com/vi_webp/-4gnfop6ZlM/hqdefault.webp) no-repeat">
+    </div>
+    <button aria-label="Play" style="position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);width:68px;height:48px;padding:0;border:none;background:transparent;cursor:pointer">
+     <svg height="100%" version="1.1" viewbox="0 0 68 48" width="100%">
+      <path d="M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z" fill="#212121" fill-opacity="0.8" style="transition:fill .1s cubic-bezier(0.4, 0, 1, 1), fill-opacity .1s cubic-bezier(0.4, 0, 1, 1)">
+      </path>
+      <path d="M 45,24 27,14 27,34" fill="#fff">
+      </path>
+     </svg>
+    </button>
+   </article>
+  </div>
+ </div>
+</div>
+
+Project 5:
+<div class="framer-8mkyq8" data-border="true" data-framer-name="Variant 5" style='--border-bottom-width:1px;--border-color:var(--token-cfcd8ffe-c961-4d8b-8bab-c389d1c9933e, rgb(51, 51, 51)) /* {"name":"Border"} */;--border-left-width:1px;--border-right-width:1px;--border-style:dashed;--border-top-width:1px;height:100%;width:100%'>
+ <div class="framer-1ucpvsp" data-border="true" style="--border-bottom-width:0px;--border-color:rgb(34, 34, 34);--border-left-width:0px;--border-right-width:0px;--border-style:solid;--border-top-width:0px;backdrop-filter:blur(0px);background-color:rgba(0, 0, 0, 0);-webkit-backdrop-filter:blur(0px)">
+  <div class="framer-1kvm7p8">
+   <div class="framer-1i5kbww" data-framer-component-type="RichTextContainer" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:rgb(255, 255, 255);--framer-paragraph-spacing:0px;transform:none">
+    <p class="framer-text" style='--font-selector:R0Y7TWFucm9wZS02MDA=;--framer-font-family:"Manrope", sans-serif;--framer-font-size:24px;--framer-font-weight:600;--framer-line-height:1em;--framer-text-alignment:center;--framer-text-color:var(--extracted-r6o4lv);--framer-text-transform:lowercase'>
+     aadillpickle
+    </p>
+   </div>
+  </div>
+  <div class="framer-1mn76q2" data-framer-component-type="RichTextContainer" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:rgba(255, 255, 255, 0.5);--framer-paragraph-spacing:0px;transform:none">
+   <p class="framer-text" style='--font-selector:R0Y7TWFucm9wZS02MDA=;--framer-font-family:"Manrope", sans-serif;--framer-font-size:14px;--framer-font-weight:600;--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv);--framer-text-transform:lowercase'>
+    a youtube channel that inspires people to create their ideas with tech
+   </p>
+  </div>
+  <div class="framer-1u9uqzl">
+   <div class="framer-1etal6g">
+    <a class="framer-1jrlt0f framer-10sms40" href="./demoday/aadillpickle" target="_blank">
+     <div class="framer-1msl83w-container">
+      <div style="display:contents">
+      </div>
+     </div>
+    </a>
+   </div>
+   <div class="framer-16x9urn">
+    <div class="framer-s9gdz4" data-border="true" style='--border-bottom-width:1px;--border-color:var(--token-cfcd8ffe-c961-4d8b-8bab-c389d1c9933e, rgb(51, 51, 51)) /* {"name":"Border"} */;--border-left-width:1px;--border-right-width:1px;--border-style:dashed;--border-top-width:1px;border-bottom-left-radius:0px;border-bottom-right-radius:0px;border-top-left-radius:0px;border-top-right-radius:0px'>
+     <div class="framer-19q5c2n" data-framer-component-type="RichTextContainer" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:var(--variable-reference-OnV0T8ucD-eMnkOdYV6);--framer-paragraph-spacing:0px;--variable-reference-OnV0T8ucD-eMnkOdYV6:#0077FF;transform:none">
+      <p class="framer-text" style='--font-selector:R0Y7TWFucm9wZS02MDA=;--framer-font-family:"Manrope", sans-serif;--framer-font-size:14px;--framer-font-weight:600;--framer-line-height:1em;--framer-text-alignment:center;--framer-text-color:var(--extracted-r6o4lv);--framer-text-transform:lowercase'>
+       alterok
+      </p>
+     </div>
+    </div>
+    <div class="framer-n0ti3h" data-border="true" style='--border-bottom-width:1px;--border-color:var(--token-cfcd8ffe-c961-4d8b-8bab-c389d1c9933e, rgb(51, 51, 51)) /* {"name":"Border"} */;--border-left-width:1px;--border-right-width:1px;--border-style:dashed;--border-top-width:1px'>
+     <div class="framer-1p2caxb" data-framer-component-type="RichTextContainer" style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;--extracted-r6o4lv:var(--variable-reference-kyxNeFk8N-eMnkOdYV6);--framer-paragraph-spacing:0px;--variable-reference-kyxNeFk8N-eMnkOdYV6:rgb(255, 255, 255);transform:none">
+      <p class="framer-text" style='--font-selector:R0Y7TWFucm9wZS02MDA=;--framer-font-family:"Manrope", sans-serif;--framer-font-size:14px;--framer-font-weight:600;--framer-line-height:1em;--framer-text-alignment:center;--framer-text-color:var(--extracted-r6o4lv);--framer-text-transform:lowercase'>
+       content
+      </p>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="framer-zf60s6" data-border="true" style='--border-bottom-width:1px;--border-color:var(--token-cfcd8ffe-c961-4d8b-8bab-c389d1c9933e, rgb(51, 51, 51)) /* {"name":"Border"} */;--border-left-width:1px;--border-right-width:1px;--border-style:dashed;--border-top-width:1px;filter:none;-webkit-filter:none'>
+  <div data-framer-background-image-wrapper="true" style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0;background-size:16px 16px;background-image:repeating-linear-gradient(45deg, rgba(180, 180, 180, 0.8) 0, rgba(180, 180, 180, 0.8) 1px, rgba(255, 255, 255, 0.2) 0, rgba(255, 255, 255, 0.2) 50%);border:1px solid #c4c4c4">
+  </div>
+  <div class="framer-1e22an3-container">
+   <article style="position:relative;width:100%;height:100%;border-radius:0px;transform:unset;cursor:pointer;overflow:hidden">
+    <div style="position:absolute;top:0;left:0;height:100%;width:100%;background:center / cover url(https://i.ytimg.com/vi_webp/rzBW5fc7ZtE/hqdefault.webp) no-repeat">
+    </div>
+    <button aria-label="Play" style="position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);width:68px;height:48px;padding:0;border:none;background:transparent;cursor:pointer">
+     <svg height="100%" version="1.1" viewbox="0 0 68 48" width="100%">
+      <path d="M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z" fill="#212121" fill-opacity="0.8" style="transition:fill .1s cubic-bezier(0.4, 0, 1, 1), fill-opacity .1s cubic-bezier(0.4, 0, 1, 1)">
+      </path>
+      <path d="M 45,24 27,14 27,34" fill="#fff">
+      </path>
+     </svg>
+    </button>
+   </article>
+  </div>
+ </div>
+</div>
