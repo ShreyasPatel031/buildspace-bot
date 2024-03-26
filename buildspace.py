@@ -16,6 +16,10 @@ from langchain_community.document_loaders.csv_loader import CSVLoader
 from langchain_core.prompts import PromptTemplate
 from langchain.prompts import SystemMessagePromptTemplate, HumanMessagePromptTemplate, ChatPromptTemplate
 
+import sys
+__import__('pysqlite3')
+import pysqlite3
+sys.modules['sqlite3'] = sys.modules["pysqlite3"]
 
 
 st.set_page_config(page_title="buildspace", page_icon="buildspace_logo.jpeg")
